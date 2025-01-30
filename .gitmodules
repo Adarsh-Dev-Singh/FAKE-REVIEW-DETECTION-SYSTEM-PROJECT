@@ -1,0 +1,3 @@
+[submodule "temp_front"]
+	path = temp_front
+	url = https://github.com/Adarsh-Dev-Singh/temp_front
